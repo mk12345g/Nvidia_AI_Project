@@ -10,5 +10,4 @@ First it opens the camera feed, then it asks the model, which is a retrained ima
 ## Purpose
 Helps people detect if there is a fire in their household
 
-## [Video](YOUTUBE LINK HERE)
-https://youtu.be/lfhovuwyxOk
+## [Video](https://youtu.be/lfhovuwyxOk)
