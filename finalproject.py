@@ -10,6 +10,6 @@ while True:
     if img is None: # capture timeout
         continue
 
-    detections = net.Detect(img)
-    
-
+    class_idx, confidence = net.Classify(img)
+    if class_idx == 0 and confidence > 0.9:
+        print("fire")
